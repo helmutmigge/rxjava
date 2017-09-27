@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BehaviorSubjectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-27T17:32:30" hostname="helmutmigge-PC" time="0.084">
+  <properties/>
+  <testcase name="behaviorSubjectWithCreate" classname="BehaviorSubjectTest" time="0.084"/>
+  <system-out><![CDATA[item 2
+item 3
+Complete
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

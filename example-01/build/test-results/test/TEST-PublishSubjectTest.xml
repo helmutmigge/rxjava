@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PublishSubjectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-27T17:32:29" hostname="helmutmigge-PC" time="0.079">
+  <properties/>
+  <testcase name="publishSubjectWithCreate" classname="PublishSubjectTest" time="0.079"/>
+  <system-out><![CDATA[Exaple hello world
+Hello
+World
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
